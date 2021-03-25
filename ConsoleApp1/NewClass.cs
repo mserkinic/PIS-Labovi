@@ -8,6 +8,10 @@ namespace ConsoleApp1
     {
         public void metoda()
         { }
+        public static void my_empty_fun()
+        {
+
+        }
     }
 
 }
